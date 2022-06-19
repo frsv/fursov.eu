@@ -1,1 +1,1 @@
-Page with my contact info: **[romanfursov.com](https://romanfursov.com)**
+Page with my contact info: **[fursov.eu](https://fursov.eu)**
