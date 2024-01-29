@@ -114,6 +114,16 @@ body {
   line-height: 140%;
 }
 
+.page__random_fact {
+  border-bottom: 1px dashed #848d96;
+  cursor: pointer;
+  -webkit-transition: opacity 350ms, -webkit-transform 350ms;
+  transition: opacity 350ms, -webkit-transform 350ms;
+  -o-transition: opacity 350ms, transform 350ms;
+  transition: opacity 350ms, transform 350ms;
+  transition: opacity 350ms, transform 350ms, -webkit-transform 350ms;
+}
+
 .page__text-links {
   border-bottom: 1px solid #848d96;
   text-decoration: none;
